@@ -6,32 +6,23 @@ If you always keep tracks of all of my uploaded files, which are mostly related 
 
 ### Nam Tola | Sharing Section
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here, you will find the latest updates from me. Thank you.
 
 ```markdown
-Syntax highlighted code block
+Part A
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Nam Tola](https://web.facebook.com/nam.tola.988).
 
-### Jekyll Themes
+### Nam Tola | Founder of Love Education | A scholarship student at CRST | A student of PUC and Academic Team At Community for Distance Learning - CDL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YoungItkh/hello-world/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can save this link for you personal benefits!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having any problems or want to feedback me? Check out our [Facebook](https://web.facebook.com/nam.tola.988) or [contact support](https://web.facebook.com/nam.tola.988) and we’ll help you sort it out.

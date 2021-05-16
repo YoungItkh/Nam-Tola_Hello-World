@@ -1,10 +1,10 @@
 ## Welcome to the I KNOW I SHARE by Mr. Nam Tola
 
-You can use the [editor on GitHub](https://github.com/YoungItkh/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+As most people find it frustrating to study online, I would open this session for an impact sharing all I know with all of you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you always keep tracks of all of my uploaded files, which are mostly related to the Exam answers, Quiz answers and Assignment Answers, you will find them useful. 
 
-### Markdown
+### Nam Tola | Sharing Section
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
